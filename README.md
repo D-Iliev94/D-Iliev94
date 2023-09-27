@@ -2,8 +2,8 @@
 <h3 align="center">On a quest to create more than just HelloWorld("print")</h3> <br />
 <div align="center" id="badges">
 <p align="center">
-<a href="https://twitter.com/Dimitar_Iliev94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimitar_iliev94" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dimitarilievpm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitarilievpm" height="30" width="40" /></a>
+<a href="https://twitter.com/Dimitar_Iliev94" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dimitar_iliev94" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dimitarilievpm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dimitarilievpm" height="30" width="40" /></a>
 </p>
 </div>
 
